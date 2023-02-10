@@ -4,12 +4,12 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "about a year ago ",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "I-saw-you",  // 同上...
+        "I-saw-your-photo",  // 同上...
         "I didn't believe in first side love,",
         "but that day I believed",
         "So",
         "to get believy like this",
-        "Hapyy",
+        "happy",
         "birthday ",
         "Dear ~~ Devyani ~~ ",
         "have a great day",
@@ -25,7 +25,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "I-saw-you":"divya.jpg",
+        "I-saw-your-photo":"divya.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
